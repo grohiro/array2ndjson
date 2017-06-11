@@ -1,0 +1,15 @@
+{
+  "name": "array2ndjson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "stream-array": "^1.1.2",
+    "stream-array-buffer": "^1.0.1"
+  }
+}
